@@ -1,5 +1,5 @@
-# Batalha Naval
+# Battleship
 
-> Jogo clássico "Batalha Naval" com inteligência simples e sem interface gráfica, funcionando apenas no terminal. Projeto da disciplina Paradigmas de Linguagens de Programação, ministrada pelo professor Dimas Cassimiro em 2018.
+Classic "Battleship" game with simple AI and no graphical interface, running only in the terminal. Project from the Programming Language Paradigms course, taught by Professor Dr. Dimas Cassimiro in 2018.
 
-**Para jogar basta apenas compilar o programa com o comando "make", e depois executar o arquivo com "./bn".**
+**To play, simply compile the program using the "make" command, and then run the file with "./bn".**
